@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Unays7
 - I’m interested in high-performance & low-latency computing.
 - I’m currently learning Rust and more C++.
 - I’m looking to collaborate on open source C++ and Rust projects for HFT/MEV.
