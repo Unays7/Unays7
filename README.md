@@ -1,5 +1,5 @@
-Interested in HFT & DeFi.
-Rust/C++ quant dev.
+- Interested in HFT & DeFi.
+- Rust/C++ quant dev.
 
 <!---
 Unays7/Unays7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
